@@ -20,4 +20,4 @@ def frec_abs(datos_entrada):
             fa_absoluta[idx] += 1
 
     return clases, fa_absoluta 
- 
+  
